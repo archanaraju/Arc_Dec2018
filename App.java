@@ -1,4 +1,4 @@
-package FMHerndonSMJ.com.FMHerndonSMJ.Tests;
+package POM_FMHerndonSMJ.POM_FMHerndonSMJ;
 
 /**
  * Hello world!

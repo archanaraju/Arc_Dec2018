@@ -1,4 +1,4 @@
-package FMHerndonSMJ.com.FMHerndonSMJ.Tests;
+package com.fanniemae.selenium.grid;
 
 import java.io.File;
 import java.io.IOException;
@@ -61,7 +61,7 @@ public class ReUsableFunctions {
 		else
 		{
 			BrowserToRun = "webdriver.chrome.chromedriver";
-	        BrowserDriverLocation = "C:\\SeleniumJAVATraining\\Softwares\\chromedriver_win32\\chromedriver.exe";
+	        BrowserDriverLocation = "chromedriver.exe";
 	        System.setProperty(BrowserToRun, BrowserDriverLocation);
 			driver = new ChromeDriver();
 			driver.get(AUT_URL);

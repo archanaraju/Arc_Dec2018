@@ -1,4 +1,4 @@
-package FMHerndonSMJ.com.FMHerndonSMJ.Tests;
+package Maven_Cucumber.Maven_Cucumber;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
